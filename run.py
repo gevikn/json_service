@@ -1,5 +1,6 @@
 /* adding comments 
-   DATE: $DATE$
+    DATE: $DATE$
+    AUTHOR: $AUTHOR$
 */
 from app import create_app
 
