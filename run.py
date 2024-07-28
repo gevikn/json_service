@@ -1,4 +1,6 @@
-/* adding comments */
+/* adding comments 
+   DATE: $DATE$
+*/
 from app import create_app
 
 app = create_app()
