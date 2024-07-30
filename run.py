@@ -1,7 +1,7 @@
-/* adding comments 
-    DATE: $DATE$
-    AUTHOR: $AUTHOR$
-*/
+# adding comments 
+#    DATE: $DATE$
+#    AUTHOR: $AUTHOR$
+#
 from app import create_app
 
 app = create_app()
